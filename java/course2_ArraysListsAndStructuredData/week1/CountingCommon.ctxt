@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CountingCommon
+comment0.text=\n\ Write\ a\ description\ of\ CountingCommon\ here.\n\ \n\ @author\ (Joy)\ \n\ @version\ (7/2/2021)\n
+comment1.params=
+comment1.target=java.lang.String[]\ getCommon()
+comment2.params=list\ word
+comment2.target=int\ indexOf(java.lang.String[],\ java.lang.String)
+comment3.params=fr\ common\ counts
+comment3.target=void\ countWords(edu.duke.FileResource,\ java.lang.String[],\ int[])
+comment4.params=
+comment4.target=void\ countShakespeare()
+numComments=5
